@@ -66,6 +66,13 @@ main {
     border-right:0.5px solid rgb(175, 173, 173);
     border-radius: 2px;
 }
+.view-p:hover {
+    border-top:0.5px solid rgb(68, 63, 63);
+    border-bottom:0.5px solid rgb(68, 63, 63);
+    border-right:0.5px solid rgb(68, 63, 63);
+    border-left:0.5px solid rgb(68, 63, 63);
+    color: rgb(68, 63, 63);
+}
 .views-p {
     cursor: pointer;
     color: rgb(175, 173, 173);
